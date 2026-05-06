@@ -2,4 +2,6 @@ Name : Albert
 
 Role : Firmware Design
 
-I learnt how to create a branch on github
+I learnt how to create a branch on GitHub
+
+This has been a great skill to learn
