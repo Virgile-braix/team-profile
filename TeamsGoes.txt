@@ -1,0 +1,13 @@
+4 Main goals for our machine monitoring project
+
+1. Real-Time System Monitoring
+Ensure the system continuously tracks key parameters like motor speed, battery level, temperature, and sensor data (e.g., distance sensors). The goal is to provide instant feedback so the robot can react quickly to changes in its environment.
+
+2. Fault Detection and Alerts
+Design the system to detect abnormal conditions such as motor overload, low battery, sensor failure, or communication loss. The goal is to trigger alerts (LED, buzzer, or display) or take corrective action automatically to prevent damage or failure.
+
+3. Performance Optimization
+Monitor and analyze data like speed, power consumption, and response time to improve efficiency. The goal is to optimize movement, extend battery life, and ensure smooth operation of the robotic car.
+
+4. Data Logging and Analysis
+Store important operational data for later review (e.g., via SD card or serial communication). The goal is to help with debugging, system improvement, and understanding long-term behavior of the robot.
