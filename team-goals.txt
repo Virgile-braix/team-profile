@@ -1,1 +1,1 @@
-Design and implement a machine monitoring system that collects real-time performance data (e.g., temperature, vibration, uptime), detects anomalies using automated analysis, and reduces unplanned downtime by at least 30% within six months.
+Design and implement a machine monitoring system that collects real-time performance data , detects anomalies using automated analysis, and reduces unplanned downtime by at least 30% within six months.
